@@ -37,7 +37,7 @@ To scrape data from html and only print the [id] and [title] for each image with
     
 *#ERROR: DEL NOT ABLE*
 
-*#I turned scraped into an exec in order to try to remove everything that we didnt want to output then turn it back into a str.*
+*#I turned scraped into an exec in order to try to remove everything that we didn't want to output then turn it back into a str.*
 
-**Once the problem is resolved I would like to add:"**
+**Once the problem is resolved I would like to add:**
 1. A prompt asking the user to either view another album or to end running the program.
